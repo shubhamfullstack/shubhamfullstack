@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shubhamfullstack
-- 👀 Solution architect, experienced in designing solutions cloud, Part time UI developer
-- 🌱 Building SaaS productivity tools for Healthtech
+- 👀 Solution architect, experienced in designing cloud solutions, Part time UI developer
+- 🌱 Building SaaS productivity tools
 - 💞️ Idea implementation - Full stack development and solution design
 - 📫 Mail - shubham.fullstack08@gmail.com
 
